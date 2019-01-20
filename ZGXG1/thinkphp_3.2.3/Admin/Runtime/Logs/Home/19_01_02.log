@@ -1,0 +1,717 @@
+[ 2019-01-02T18:42:10+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003712s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026288s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026355s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001490s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001563s ]
+
+[ 2019-01-02T18:51:47+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003331s ]
+ERR: Think\Controller:dissplay方法不存在！
+
+[ 2019-01-02T18:52:05+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021123s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001372s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001551s ]
+
+[ 2019-01-02T18:53:32+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060565s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001589s ]
+
+[ 2019-01-02T18:53:37+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php/Home/emplist/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002460s ]
+ERR: 无法加载控制器:Emplist
+
+[ 2019-01-02T18:54:18+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001759s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050419s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001305s ]
+
+[ 2019-01-02T18:54:20+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001535s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067677s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001259s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001619s ]
+
+[ 2019-01-02T18:54:20+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050966s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001960s ]
+
+[ 2019-01-02T18:54:21+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000221s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001085s ]
+
+[ 2019-01-02T18:54:21+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001347s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052159s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002179s ]
+
+[ 2019-01-02T18:54:22+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001148s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001534s ]
+
+[ 2019-01-02T18:54:57+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001098s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001895s ]
+
+[ 2019-01-02T18:56:01+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001925s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062662s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001214s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001285s ]
+
+[ 2019-01-02T18:56:44+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001926s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002113s ]
+
+[ 2019-01-02T18:56:52+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049224s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049278s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2019-01-02T18:56:53+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002435s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001185s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001227s ]
+
+[ 2019-01-02T18:57:08+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041519s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2019-01-02T18:57:25+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001238s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045790s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001863s ]
+
+[ 2019-01-02T18:57:27+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056358s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001455s ]
+
+[ 2019-01-02T18:57:28+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003298s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043334s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001449s ]
+
+[ 2019-01-02T18:57:34+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php/Home/login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载控制器:Login
+
+[ 2019-01-02T18:59:08+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 77 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 105 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 167 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 169 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 196 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 220 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065051s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065092s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001816s ]
+
+[ 2019-01-02T18:59:12+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001983s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000354s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000622s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 77 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 105 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 167 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 169 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 196 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 220 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053462s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000862s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001534s ]
+
+[ 2019-01-02T19:00:02+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 77 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 105 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 167 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 169 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 196 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 220 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049658s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001120s ]
+
+[ 2019-01-02T19:01:05+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 77 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 105 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 167 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 169 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 196 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 220 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045613s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045654s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001879s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001918s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002012s ]
+
+[ 2019-01-02T19:01:27+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000385s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 77 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 105 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 167 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 169 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 196 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 220 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000695s ]
+
+[ 2019-01-02T19:01:31+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 77 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 105 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 167 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 169 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 196 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 220 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049282s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2019-01-02T19:01:47+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002897s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002950s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001916s ]
+
+[ 2019-01-02T19:02:45+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002414s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052655s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052722s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001703s ]
+
+[ 2019-01-02T19:04:27+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001201s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+NOTIC: [8] Undefined variable: emps D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 64 行.
+NOTIC: [8] Undefined variable: dept D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 92 行.
+NOTIC: [8] Undefined variable: count D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 154 行.
+NOTIC: [8] Undefined variable: curr D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 156 行.
+NOTIC: [8] Undefined variable: emp D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 183 行.
+NOTIC: [8] Undefined variable: depts D:\XAMPP\htdocs\phpText\ZGXG\ZGXG1\thinkphp_3.2.3\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046861s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001048s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001970s ]
+

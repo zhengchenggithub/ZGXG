@@ -1,0 +1,234 @@
+[ 2019-01-10T15:18:02+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:18:25+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:18:28+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:19:04+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:20:01+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002736s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:20:19+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:20:41+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:21:43+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:21:57+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001948s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:22:07+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:22:26+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:22:37+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:22:42+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:22:49+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:22:59+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001434s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:23:08+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:23:12+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:27:37+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:28:32+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:28:45+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001263s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:28:48+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:29:01+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:29:29+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:29:58+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:30:23+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:30:26+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002046s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:30:32+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:31:08+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:31:25+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:31:54+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002090s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:32:26+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:32:38+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:32:53+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:33:03+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:33:45+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:33:54+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004421s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T15:48:13+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T18:33:58+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-10T18:34:27+08:00 ] ::1 /phpText/ZGXG/ZGXG1/thinkphp_3.2.3/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Public
+

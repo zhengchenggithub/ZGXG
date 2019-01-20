@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Permanent+Marker");
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
+body,html{min-height:100%;font-size:18px;font-family:Roboto,cursive}
+h1,h2,h3,h4,h5{font-family:Permanent Marker,cursive}
+body{background:#fff}
+code{background:#ddd;padding:5px;line-height:1.4;font-size:12px;border:1px solid #aaa;font-family:Source Code Pro,monospace;display:block}
+p{color:gray}
+strong{letter-spacing:2px;font-weight:300;background:#ddd;padding:5px;border:1px solid #aaa;font-size:14px;color:#000}
+a{color:#00cf7d;text-decoration:none}
+.tr{text-align:right}
+.container{
+    max-width:900px;
+    padding:0 20px;
+    margin-left: 130px;
+    margin-top: -50px}
+.heading{
+    font-family:Permanent Marker,cursive;
+    font-weight:400;
+    margin:30px;
+    position: relative
+}
+.h{
+    font-size: 50px;
+    margin-left: 140px;
+    margin-bottom: 5px ;
+}
+@media (max-width:768px)
+{
+    .demo-list__item{width:100%}
+    .nav{position:static}
+    body{padding-top:0}
+    .nav__container{-ms-flex-direction:column;flex-direction:column;-ms-flex-align:center;align-items:center;width:100%;padding:0}
+    .nav__item{display:block}
+    .nav__link{height:auto;line-height:1}}
+.coming-soon{color:#00cf7d}
+footer{text-align:center}
+.footer-logo{height:200px;margin:5px auto}
